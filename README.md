@@ -50,7 +50,7 @@ Installs the following:
 Setup
 -------------------
 ```bash
-git clone https://github.com/dan-kir/kali-post-install
+git clone https://github.com/Drac0nic5ound/kali-post-install
 cd kali-post-install
 chmod +x kali-post-install.zsh
 ./kali-post-install.zsh
